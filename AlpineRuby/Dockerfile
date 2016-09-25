@@ -1,4 +1,4 @@
-from edaccac22b79
+from vishnu667/alpinebase:latest
 
 MAINTAINER Vishnu Prasad <vishnu667@gmail.com>
 
