@@ -10,7 +10,6 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
       org.label-schema.vcs-ref=$VCS_REF
 
 RUN apk add --update nginx
-
 Run rm -rf /var/cache/apk/*
 WORKDIR /root
 
